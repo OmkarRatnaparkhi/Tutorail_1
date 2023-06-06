@@ -1,0 +1,3 @@
+https://www.educba.com/redisjson/	
+https://docs.redis.com/latest/modules/redisjson/redisjson-quickstart/
+https://redis.io/docs/stack/json/
